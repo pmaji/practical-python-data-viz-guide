@@ -11,3 +11,5 @@ This is a work in progress that will be evolving rapidly over the coming weeks a
 - For the data prep notebook:
     - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the easy-to-view notebook
     - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the GitHub-hosted version of the notebook
+    
+    
