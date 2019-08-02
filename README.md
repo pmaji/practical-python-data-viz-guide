@@ -12,4 +12,11 @@ This is a work in progress that will be evolving rapidly over the coming weeks a
     - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the easy-to-view notebook
     - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the GitHub-hosted version of the notebook
     
-    
+# Setup
+
+- clone the repo
+- create a virtual environment
+- activate that virtual environment
+- install needed packages using `pip install -r requirements.txt`
+- run an instance of jupyter lab out of your virutal env using `env/bin/jupyter-lab`
+- start with the `main_lecture_nb.ipynb` file
