@@ -12,11 +12,17 @@ This is a work in progress that will be evolving rapidly over the coming weeks a
     - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the easy-to-view notebook
     - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the GitHub-hosted version of the notebook
     
-# Setup
+- For the homework notebook (participant version):
+    - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view notebook
+    - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the GitHub-hosted version of the notebook
+    
+# Setup Instructions
 
-- clone the repo
-- create a virtual environment
-- activate that virtual environment
+- clone this repository locally
+- create a virtual environment using `python3 -m venv env`
+    - additional information about this [can be found here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+- activate that virtual environment using `source env/bin/activate`
 - install needed packages using `pip install -r requirements.txt`
+    - additional information about this [can be found here](https://pip.pypa.io/en/latest/user_guide/#requirements-files)
 - run an instance of jupyter lab out of your virutal env using `env/bin/jupyter-lab`
-- start with the `main_lecture_nb.ipynb` file
+- start by opening and running the `main_lecture_nb.ipynb` file, in which the majority of the content is located
