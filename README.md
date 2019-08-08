@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Note:** *All views expressed on this site are my own and do not represent the opinions of any entity with which I have been, am now, or will be affiliated.*
+*All views expressed on this site are my own and do not represent the opinions of any entity with which I have been, am now, or will be affiliated.*
 
 This repository contains all materials related to a lecture / seminar I teach on practical data visualization with python. What I mean by "practical" is that the materials herein do not focus on one particularly library or data visualization method; rather, my goal is to empower the consumer of this content with the tools, heuristics, and methods needed to handle a wide variety of data visualization problems. 
 
@@ -14,11 +14,17 @@ In the section below you'll find a brief outline of the content contained in the
 
 ### Why We Visualize
 
+[Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_1_main_nb.ipynb) to the easy-to-view notebook for this section of material.
+[Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_1_main_nb.ipynb) to the GitHub-hosted notebook for this section of the material.
+
 1. The power of visual data representation and storytelling. 
 2. A few principles and heuristics of visualization.
 3. The building blocks of visualization explored.
 
 ### Overview of Python Visualization Landscape
+
+[Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_2_main_nb.ipynb) to the easy-to-view notebook for this section of material.
+[Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_2_main_nb.ipynb) to the GitHub-hosted notebook for this section of the material.
 
 1. Intro to the visualization ecosystem: python's Tower of Babel.
 2. Smorgasbord of packages explored through a single example viz.
@@ -26,35 +32,31 @@ In the section below you'll find a brief outline of the content contained in the
 
 ### Statistical Visualization in the Wild
 
-1. Example business use case of data visualization: debt-to-income ratios explored.
+[Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_3_main_nb.ipynb) to the easy-to-view notebook for this section of material.
+[Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_3_main_nb.ipynb) to the GitHub-hosted notebook for this section of the material.
+
+1. Example business use case of data visualization:
     1. Observational:
         - mean, median, and variance
         - distributions
     2. Inferential:
-        - two-sample t-test
-        - KS test
+        - parametric tests
+        - non-parametric tests
 
 ### Library Deep-Dive (Plotly)
 
+[Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_4_main_nb.ipynb) to the easy-to-view notebook for this section of material.
+[Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_4_main_nb.ipynb) to the GitHub-hosted notebook for this section of the material.
+
 1. Quick and simple data visualizations with Plotly Express.
-    - Mark types, colors, facets, etc.
 2. Additional control and complexity with base Plotly.
-    - Choropleth maps 
-    - Heatmaps 
 
-## Links
+### Homework Exercises
 
-- For the main lecture notebook:
-    - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/main_lecture_nb.ipynb) to the easy-to-view notebook
-    - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/main_lecture_nb.ipynb) to the GitHub-hosted version of the notebook
+There is a homework exercise associated with these materials, for those interested. 
 
-- For the data prep notebook:
-    - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the easy-to-view notebook
-    - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb) to the GitHub-hosted version of the notebook
-    
-- For the homework notebook (participant version):
-    - [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view notebook
-    - [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the GitHub-hosted version of the notebook
+- [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view notebook (participant version)
+- [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the GitHub-hosted version of the notebook (participant version)
     
 ## Setup Instructions
 
