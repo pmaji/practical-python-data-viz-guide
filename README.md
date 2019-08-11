@@ -25,7 +25,7 @@ Below you'll find a brief outline of the content contained in the four sections 
 **Example Visualization from this Section:**
 
 <p align="left">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/overlapping_pdf_viz.jpg"></img>
+  <img width="600" height="400" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/overlapping_pdf_viz.jpg"></img>
 </p>
 
 ### Section 2: Overview of Python Visualization Landscape
@@ -41,7 +41,7 @@ Below you'll find a brief outline of the content contained in the four sections 
 **Example Visualization from this Section:**
 
 <p align="left">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/basic_seaborn_scatter_viz.jpg"></img>
+  <img width="600" height="400" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/basic_seaborn_scatter_viz.jpg"></img>
 </p>
 
 ### Section 3: Statistical Visualization in the Wild
@@ -61,7 +61,7 @@ Below you'll find a brief outline of the content contained in the four sections 
 **Example Visualization from this Section:**
 
 <p align="left">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/ecdf_ks_test_viz.jpg"></img>
+  <img width="600" height="400" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/ecdf_ks_test_viz.jpg"></img>
 </p>
 
 ### Section 4: Library Deep-Dive (Plotly)
@@ -76,7 +76,7 @@ Below you'll find a brief outline of the content contained in the four sections 
 **Example Visualization from this Section:**
 
 <p align="left">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/heatmap_plotly_viz.jpg"></img>
+  <img width="600" height="400" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/heatmap_plotly_viz.jpg"></img>
 </p>
 
 ### Homework Exercises
