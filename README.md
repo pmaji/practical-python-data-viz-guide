@@ -22,6 +22,12 @@ Below you'll find a brief outline of the content contained in the four sections 
 2. A few principles and heuristics of visualization.
 3. The building blocks of visualization explored.
 
+**Example Visualization from this Section:**
+
+<img src="../media/for_readme/ecdf_ks_test_viz.jpg" width="600" height="100" align="left">
+
+---
+
 ### Overview of Python Visualization Landscape
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_2_main_nb.ipynb) to the easy-to-view notebook for this section of material.
