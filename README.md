@@ -10,9 +10,9 @@ If you have questions, comments, or suggested alterations to these materials, pl
 
 ## Outline of Materials
 
-Below you'll find a brief outline of the content contained in the four sections of this seminar. For each section there is a separate notebook of python code containing all the materials for that section. Each notebook will start with a few setup steps--package imports and data prep mostly--that are almost identical between the notebooks, directly after which comes the content for each section. For information about the data used in these materials, check out the `data_prep_nb.ipynb` notebook, the easy-to-view version of which is [hosted here](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb).
+Below you'll find a brief outline of the content contained in the four sections of this seminar, along with notebook links, and an example visualization from each section. For each section there is a separate notebook of python code containing all the materials for that section. Each notebook will start with a few setup steps--package imports and data prep mostly--that are almost identical between the notebooks, directly after which comes the content for each section. For information about the data used in these materials, check out the `data_prep_nb.ipynb` notebook, the easy-to-view version of which is [hosted here](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/data_prep_nb.ipynb).
 
-### Why We Visualize
+### Section 1: Why We Visualize
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_1_main_nb.ipynb) to the easy-to-view notebook for this section of material.
 <br>
@@ -25,10 +25,10 @@ Below you'll find a brief outline of the content contained in the four sections 
 **Example Visualization from this Section:**
 
 <p align="left">
-  <img width="600" height="100" src="../media/for_readme/ecdf_ks_test_viz.jpg"></img>
+  <img width="600" height="100" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/overlapping_pdf_viz.jpg"></img>
 </p>
 
-### Overview of Python Visualization Landscape
+### Section 2: Overview of Python Visualization Landscape
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_2_main_nb.ipynb) to the easy-to-view notebook for this section of material.
 <br>
@@ -38,7 +38,13 @@ Below you'll find a brief outline of the content contained in the four sections 
 2. Smorgasbord of packages explored through a single example viz.
 3. Quick & dirty (and subjective) heuristics for picking a visualization package.
 
-### Statistical Visualization in the Wild
+**Example Visualization from this Section:**
+
+<p align="left">
+  <img width="600" height="100" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/basic_seaborn_scatter_viz.jpg"></img>
+</p>
+
+### Section 3: Statistical Visualization in the Wild
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_3_main_nb.ipynb) to the easy-to-view notebook for this section of material.
 <br>
@@ -52,7 +58,13 @@ Below you'll find a brief outline of the content contained in the four sections 
         - parametric tests
         - non-parametric tests
 
-### Library Deep-Dive (Plotly)
+**Example Visualization from this Section:**
+
+<p align="left">
+  <img width="600" height="100" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/ecdf_ks_test_viz.jpg"></img>
+</p>
+
+### Section 4: Library Deep-Dive (Plotly)
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/part_4_main_nb.ipynb) to the easy-to-view notebook for this section of material.
 <br>
@@ -60,6 +72,12 @@ Below you'll find a brief outline of the content contained in the four sections 
 
 1. Quick and simple data visualizations with Plotly Express.
 2. Additional control and complexity with base Plotly.
+
+**Example Visualization from this Section:**
+
+<p align="left">
+  <img width="600" height="100" src="https://raw.githubusercontent.com/pmaji/practical-python-data-viz-guide/master/media/for_readme/heatmap_plotly_viz.jpg"></img>
+</p>
 
 ### Homework Exercises
 
