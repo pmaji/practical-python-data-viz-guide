@@ -24,9 +24,9 @@ Below you'll find a brief outline of the content contained in the four sections 
 
 **Example Visualization from this Section:**
 
-<img src="../media/for_readme/ecdf_ks_test_viz.jpg" width="600" height="100" align="left">
-
----
+<p align="left">
+  <img width="600" height="100" src="../media/for_readme/ecdf_ks_test_viz.jpg"></img>
+</p>
 
 ### Overview of Python Visualization Landscape
 
