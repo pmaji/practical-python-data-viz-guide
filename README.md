@@ -95,7 +95,7 @@ There is a homework exercise associated with these materials, for those interest
 - install needed packages using `pip install -r requirements.txt`
     - additional information about this [can be found here](https://pip.pypa.io/en/latest/user_guide/#requirements-files)
 - run an instance of jupyter lab out of your virutal env using `env/bin/jupyter-lab`
-- opening and run the four main files of content for this course--one for each section:
+- open and run the four main files of content for this course--one for each section:
     - `part_1_main_nb.ipynb`
     - `part_2_main_nb.ipynb`
     - `part_3_main_nb.ipynb`
