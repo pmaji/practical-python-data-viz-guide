@@ -81,10 +81,10 @@ Below you'll find a brief outline of the content contained in the four sections 
 
 ### Homework Exercises
 
-There is a homework exercise associated with these materials, for those interested. 
+There is a homework associated with these materials, for those interested. Given the open-ended nature of the homework, there is no answer key. That said, if you're working through it and would like some feedback, feel free to [reach out to me via Twitter](https://twitter.com/ByPaulJ).
 
-- [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view notebook (participant version)
-- [Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the GitHub-hosted version of the notebook (participant version)
+[Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view homework notebook 
+[Here is the link](https://github.com/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the GitHub-hosted version of the homework notebook
     
 ## Setup Instructions
 
