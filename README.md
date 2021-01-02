@@ -6,7 +6,7 @@
 
 This repository contains all materials related to a lecture / seminar I teach on practical data visualization with python. What I mean by "practical" is that the materials herein do not focus on one particular library or data visualization method; rather, my goal is to empower the consumer of this content with the tools, heuristics, and methods needed to handle a wide variety of data visualization problems. 
 
-If you have questions, comments, or suggested alterations to these materials, please [open an issue](https://github.com/pmaji/practical-python-data-viz-guide/issues) here on GitHub. Also, don't hesitate to reach out [via Twitter here](https://twitter.com/ByPaulJ).
+If you have questions, comments, or suggested alterations to these materials, please [open an issue](https://github.com/pmaji/practical-python-data-viz-guide/issues) here on GitHub. Also, don't hesitate to reach out via LinkedIn.
 
 ## Outline of Materials
 
@@ -81,7 +81,7 @@ Below you'll find a brief outline of the content contained in the four sections 
 
 ### Homework Exercises
 
-There is a homework associated with these materials, for those interested. Given the open-ended nature of the homework, there is no answer key. That said, if you're working through it and would like some feedback, feel free to [reach out to me via Twitter](https://twitter.com/ByPaulJ).
+There is a homework associated with these materials, for those interested. Given the open-ended nature of the homework, there is no answer key. That said, if you're working through it and would like some feedback, feel free to reach out to me via LinkedIn.
 
 [Here is the link](https://nbviewer.jupyter.org/github/pmaji/practical-python-data-viz-guide/blob/master/notebooks/participant_hw_nb.ipynb) to the easy-to-view homework notebook. 
 <br>
