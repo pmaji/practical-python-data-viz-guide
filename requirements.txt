@@ -74,7 +74,7 @@ testpath==0.4.2
 toolz==0.10.0
 tornado==6.0.3
 traitlets==4.3.2
-urllib3==1.25.3
+urllib3==1.25.8
 vega-datasets==0.7.0
 wcwidth==0.1.7
 webencodings==0.5.1
