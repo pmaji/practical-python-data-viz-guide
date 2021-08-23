@@ -24,7 +24,7 @@ json5==0.8.5
 jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-core==4.5.0
-jupyterlab==1.0.4
+jupyterlab==1.2.21
 jupyterlab-server==1.0.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
