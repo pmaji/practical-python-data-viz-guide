@@ -34,7 +34,7 @@ mizani==0.5.4
 nbconvert==5.5.0
 nbformat==4.4.0
 notebook==6.1.5
-numpy==1.16.4
+numpy==1.22.0
 packaging==19.1
 palettable==3.2.0
 pandas==0.24.2
