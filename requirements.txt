@@ -15,7 +15,7 @@ descartes==1.1.0
 entrypoints==0.3
 idna==2.8
 ipykernel==5.1.1
-ipython==7.7.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.1
 Jinja2==2.11.3
