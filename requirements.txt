@@ -19,7 +19,7 @@ ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.14.1
 Jinja2==2.11.3
-joblib==0.13.2
+joblib==1.2.0
 json5==0.8.5
 jsonschema==3.0.2
 jupyter-client==5.3.1
